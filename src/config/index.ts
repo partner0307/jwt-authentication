@@ -10,3 +10,6 @@ const config = {
     port: process.env.PORT || 8000,
     prefix: process.env.API_PREFIX || 'api'
 }
+
+
+export default config;
